@@ -1,8 +1,8 @@
 # Bonjour, je suis Nassim Benchenni
 
-Actuellement étudiant en Cursus Master en Ingénierie (CMI), je me spécialise dans le développement système, l'administration réseau et l'Internet des Objets (IoT).
+Étudiant en Cursus Master en Ingénierie (CMI), je regroupe ici mes projets informatiques. 
 
-Mon approche de l'informatique est globale : j'aime comprendre et maîtriser l'ensemble de la chaîne de valeur d'un projet. Je suis aussi à l'aise avec la configuration bas niveau d'un microcontrôleur qu'avec le développement d'un serveur de réception sécurisé ou le déploiement d'une interface web pour l'exploitation des données.
+Je m'oriente vers les domaines de la Data et de l'Intelligence Artificielle, avec une approche très pragmatique : ce qui me motive avant tout, c'est de coder des solutions concrètes et vraiment utiles.
 
 ### Compétences Techniques
 
@@ -14,7 +14,7 @@ Mon approche de l'informatique est globale : j'aime comprendre et maîtriser l'e
 
 ### Projets Mis en Avant
 
-Voici une sélection des projets qui illustrent mon savoir-faire, du scripting d'administration aux applications embarquées :
+Voici une sélection de mes projets, allant du scripting d'administration aux applications embarquées :
 
 **1. Système de Monitoring de Parc Informatique**
 Une solution d'administration complète pour surveiller des serveurs Linux à distance, conçue pour tourner en autonomie.
@@ -33,7 +33,7 @@ Un projet axé sur la logique algorithmique et la gestion de données locales.
 
 ### Me Contacter
 
-Je suis toujours ouvert aux échanges techniques ou aux opportunités professionnelles. N'hésitez pas à parcourir mes dépôts ou à me contacter directement :
+Je suis toujours ouvert aux échanges techniques ou aux opportunités. N'hésitez pas à parcourir mes dépôts ou à me contacter directement :
 
 * Email : nassim.benchenni@gmail.com
 * LinkedIn : https://www.linkedin.com/in/nassim-benchenni-700b08386/
