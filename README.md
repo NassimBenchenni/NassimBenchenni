@@ -41,4 +41,4 @@ Un projet axé sur la logique algorithmique et la gestion de données locales.
 Je suis toujours ouvert aux échanges techniques ou aux opportunités. N'hésitez pas à parcourir mes dépôts ou à me contacter directement :
 
 * Email : nassim.benchenni@gmail.com
-* LinkedIn : https://www.linkedin.com/in/nassim-benchenni-700b08386/
+* LinkedIn : https://www.linkedin.com/in/nassim-benchenni/
